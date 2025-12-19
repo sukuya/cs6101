@@ -199,9 +199,9 @@ Here we archive and cross link all of the past projects done by our first year P
         <p style="font-size:18px">With the rise of Generative AI, Small Language Models (SLMs) offer a more practical and affordable solution for industrial deployment compared to Large Language Models (LLMs). For integrating domain-specific knowledge, Retrieval-Augmented Generation (RAG) is often a more effective strategy than model fine-tuning. This project investigates the efficacy of RAG systems built upon SLMs. We will evaluate their performance and challenges across various question categories using product technical documents. The 2nd objective is to analyse whether the underlying language model size (SLM vs. LLM) significantly impacts the overall performance and reliability of the RAG system.<BR /></p>
         <h2>☀️ Team Member </h2>
         <ul style="font-size:18px">
-          <li>Jonathan Chen</li>
+          <li>Jonathan Chen [&nbsp;<a href="https://www.linkedin.com/in/jonathan-chen-33096811/">LinkedIn</a>&nbsp;]</li>
           <li>Shyamal Narang</li>
-          <li>JF Koh</li>
+          <li>JF Koh [&nbsp;<a href="https://www.linkedin.com/in/jf-koh/">LinkedIn</a>&nbsp;]</li>
         </ul>
         <h2>📻 Media Links</h2>
         [&nbsp;<a href="https://github.com/jfkoh/nus_wing_rag_team3" style="font-size:18px">GitHub Repository</a>&nbsp;]
